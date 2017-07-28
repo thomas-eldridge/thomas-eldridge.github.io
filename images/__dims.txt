@@ -1,0 +1,4 @@
+content images = 150 x 150 pixels
+slideshow images = 680 x 250 pixels
+
+(can change these in CSS)
